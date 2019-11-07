@@ -1,0 +1,21 @@
+
+<TESTIMONIAL>
+	<PERSON>
+		<desc>"I just closed my first auction with QuickAuction and it was an incredibly smooth experience. They made me feel comfortable with selling some of the many items my family collected over the years and we got best price and in a timely manner as well. Whether you have a large storage full of items or just handful of pieces, I highly recommend them for your auction needs."</desc>
+		<name>Subhash Jadhav</name>
+		<place>Lucknow, India</place>
+		<imageurl>images\person1.jpg</imageurl>
+	</PERSON>
+	<PERSON>
+		<desc>"These guys have a neat website, easy to navigate and they give the personal touch to all my transactions. They also auction off some really neat and cool stuff. I love attending auctions via the web. I can be on the arctic ocean and still bid and win things I like. Top notch"</desc>
+		<name>Raj Bansal</name>
+		<place>Mumbai, India</place>
+		<imageurl>images\person2.jpg</imageurl>
+	</PERSON>	
+	<PERSON>
+		<desc>"This was the first time that I have ever bid at an online auction and I was very impressed with how easy it was and how efficient your system is."</desc>
+		<name>Ojas Shah</name>
+		<place>Surat, India</place>
+		<imageurl>images\person3.jpg</imageurl>
+	</PERSON>
+</TESTIMONIAL>
